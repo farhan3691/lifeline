@@ -1,3 +1,3 @@
-This is my first repositry
+This is my first repo.
 <br>
 Author - Farhan
